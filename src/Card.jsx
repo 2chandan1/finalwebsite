@@ -13,7 +13,7 @@ const Card= (props) => {
                       Some quick example text to build on the card title and
                       make up the bulk of the card's content.
                     </p>
-                    <NavLink to="#" className="btn btn-primary">
+                    <NavLink to="https://www.youtube.com/" className="btn btn-primary">
                       Click Here
                     </NavLink>
                   </div>
